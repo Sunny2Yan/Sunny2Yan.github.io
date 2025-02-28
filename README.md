@@ -1,2 +1,2 @@
-# Sunny2Yan.github.io
+# Yan' Notes
 This is my blog
